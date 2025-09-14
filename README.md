@@ -10,6 +10,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white)
