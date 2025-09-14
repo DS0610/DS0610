@@ -23,4 +23,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ### Overview
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DS0610&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DS0610&layout=compact&theme=tokyonight&langs_count=10)
+
